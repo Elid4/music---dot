@@ -5,11 +5,13 @@ body {
     width: 940px;
 }
 
-h1{
+.coloridos{
     color: #3D3D3D;
     background-color: #E1EDF2;
     padding: 10px;
+     border-bottom: none;
 }
+
 
 h2{
     border-bottom: solid;
@@ -44,6 +46,7 @@ figcaption{
     color: lightgrey;
     margin-top: 10px;
 }
+
 
 
 
