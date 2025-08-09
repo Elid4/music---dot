@@ -25,10 +25,26 @@ figure{
     padding: 15px;
 }
 
+#matriz{
+    width: 550px;
+    margin: 0 auto;
+}
+
+#familia{
+    width: 275px;
+    float: right;
+    
+}
+
+figure img {
+    max-width: 100%;
+}
+
 figcaption{
     color: lightgrey;
     margin-top: 10px;
 }
+
 
 
 
